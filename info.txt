@@ -1,0 +1,1 @@
+Fault tolerance 💻 : is a way for microservices to handle the unavailability of a service by using different stability patterns. There are many stability patterns which have been used to achieve robustness and resilience including Circuit Breaker Pattern, Timeout Pattern, and Retry Pattern  .
