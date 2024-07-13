@@ -1,0 +1,5 @@
+cok.hour.discoveryservice.DiscoveryServiceApplication
+cok.hour.gatwayservice.GatwayServiceApplication
+cok.hour.customerservice.CustomerServiceApplication
+cok.hour.accountservice.AccountServiceApplication
+cok.hour.configservice.ConfigServiceApplication

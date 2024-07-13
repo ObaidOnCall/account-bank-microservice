@@ -18,11 +18,14 @@ import jakarta.persistence.Transient;
 import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.repository.PagingAndSortingRepository;
+import org.springframework.data.repository.Repository;
 
 
 @Entity
 @Data @Getter @Setter
-public class BanckAccount {
+public class BanckAccount implements Repository {
     
 
     @Id
